@@ -53,7 +53,10 @@ export async function removeFromWatchlist(symbol: string) {
     if (!session?.user) return { success: false, error: 'Not authenticated' };
 
     await connectToDatabase();
-    await Watchlist.deleteOne({ userId: session.user.id, symbol: symbol.toUpperCase() });
+       await Watchlist.deleteOne({ userId: session.user.id, symbol: symbol.toUpperCase() });
+
+    const { revalidatePath } = await import('next/cache');
+    revalidatePath('/watchlist');
 
     return { success: true, message: 'Removed from watchlist' };
   } catch (err) {
