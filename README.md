@@ -88,29 +88,20 @@ MarketPulse cuts through that noise. Users track only the stocks they care about
 
 ## 📸 Screenshots
 
-### **Landing & Authentication**
-![Sign In Page](./screenshots/sign-in.png)
+### **Login Page**
+![Login Page](./screenshots/login.png)
 
 ### **Sign Up with Personalization**
-![Sign Up Page](./screenshots/sign-up.png)
+![Sign Up Page](./screenshots/signup.png)
 
 ### **Main Dashboard**
 ![Dashboard](./screenshots/dashboard.png)
 
-### **Stock Search Command Palette**
-![Stock Search](./screenshots/search.png)
-
-### **Stock Detail Page with Charts and Financials**
-![Stock Details](./screenshots/stock-details.png)
+### **Stock Detail View**
+![Stock Details](./screenshots/view.png)
 
 ### **Personal Watchlist**
 ![Watchlist](./screenshots/watchlist.png)
-
-### **AI-Generated Welcome Email**
-![Welcome Email](./screenshots/welcome-email.png)
-
-### **Daily News Summary Email**
-![Daily Summary](./screenshots/daily-summary.png)
 
 ---
 
