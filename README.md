@@ -44,7 +44,7 @@ Built with **Next.js 15, TypeScript, MongoDB, Better Auth, Inngest, and Google G
 - **Finnhub API** for real-time stock search, company profiles, and market news
 - **Nodemailer** for transactional email delivery via Gmail SMTP
 
-### 🚀 DevOps & Deployment
+### 🚀 Deployment
 - **Vercel** (Production hosting with automatic CI/CD on push)
 - **GitHub** (Version control and source of truth for deployments)
 
