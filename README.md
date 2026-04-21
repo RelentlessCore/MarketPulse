@@ -103,6 +103,9 @@ MarketPulse cuts through that noise. Users track only the stocks they care about
 ### **Personal Watchlist**
 ![Watchlist](./screenshots/watchlist.png)
 
+### **Multiple Devices View**
+![View](./screenshots/multiple-devices-view.png)
+
 ---
 
 ## 🚀 Why This Stands Out
